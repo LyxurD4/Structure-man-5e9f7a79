@@ -1,0 +1,22 @@
+th {
+    background-color: #ebebeb;
+    padding: 15px;
+}
+
+td {
+    background-color: #616161;
+    color: white;
+    padding: 15px;
+    text-align: center;
+    font-size: 10px;
+}
+
+a {
+    text-decoration: none;
+    color: white;
+    font-size: medium;
+}
+
+body {
+    font-family: Arial;
+}
